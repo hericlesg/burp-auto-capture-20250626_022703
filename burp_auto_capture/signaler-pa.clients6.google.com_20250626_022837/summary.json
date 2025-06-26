@@ -1,0 +1,103 @@
+{
+  "capture_timestamp": "20250626_022837", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/request_001.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/multi-watch/channel?VER=8&gsessionid=rflcnY9vxiNEWqQsdMpCKsfH-dpRBvHWzzh03RbsAoc&key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc&RID=rpc&SID=OTJF8m7c5DB4ffwZg2jTbQ&AID=0&CI=0&TYPE=xmlhttp&zx=rvmofoxu17gu&t=1", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/response_001.txt", 
+      "timestamp": 1750914192323
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/request_002.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/multi-watch/channel?VER=8&gsessionid=UxyaYiPNNnDASGiiZsfCalN-FoVy0AVWrbDB0ZYWkeM&key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc&RID=rpc&SID=IX94KE0NCPKXcPnfo3DOmw&AID=0&CI=0&TYPE=xmlhttp&zx=ailpe6la2dia&t=4", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/response_002.txt", 
+      "timestamp": 1750914217617
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/request_003.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/multi-watch/channel?VER=8&gsessionid=rflcnY9vxiNEWqQsdMpCKsfH-dpRBvHWzzh03RbsAoc&key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc&RID=rpc&SID=OTJF8m7c5DB4ffwZg2jTbQ&AID=0&CI=0&TYPE=xmlhttp&zx=4aox3nruznqh&t=2", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/response_003.txt", 
+      "timestamp": 1750914244261
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/request_004.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/multi-watch/channel?VER=8&gsessionid=rflcnY9vxiNEWqQsdMpCKsfH-dpRBvHWzzh03RbsAoc&key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc&RID=rpc&SID=OTJF8m7c5DB4ffwZg2jTbQ&AID=0&CI=0&TYPE=xmlhttp&zx=kt8uh8m29loq&t=3", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/response_004.txt", 
+      "timestamp": 1750914314850
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/request_005.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/v1/chooseServer?key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/response_005.txt", 
+      "timestamp": 1750914360933
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/request_006.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/v1/chooseServer?key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/response_006.txt", 
+      "timestamp": 1750914382389
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/request_007.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/v1/chooseServer?key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/response_007.txt", 
+      "timestamp": 1750914403391
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/request_008.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/multi-watch/channel?VER=8&gsessionid=6A3YniHRxh0th1m7wor5WHNG426NDi1iFXx5ch3fdkw&key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc&RID=74066&CVER=22&zx=qj73znclf67v&t=1", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/response_008.txt", 
+      "timestamp": 1750914423421
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/request_009.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/multi-watch/channel?VER=8&gsessionid=rflcnY9vxiNEWqQsdMpCKsfH-dpRBvHWzzh03RbsAoc&key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc&RID=rpc&SID=OTJF8m7c5DB4ffwZg2jTbQ&AID=0&CI=0&TYPE=xmlhttp&zx=ofxo053s0663&t=4", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/response_009.txt", 
+      "timestamp": 1750914434628
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/request_010.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/multi-watch/channel?VER=8&gsessionid=6A3YniHRxh0th1m7wor5WHNG426NDi1iFXx5ch3fdkw&key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc&RID=rpc&SID=rRG_JpdsxpF7VmndXXsbLg&AID=0&CI=0&TYPE=xmlhttp&zx=43tu5r3zl8p3&t=1", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/response_010.txt", 
+      "timestamp": 1750914472390
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/request_011.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/multi-watch/channel?VER=8&gsessionid=6A3YniHRxh0th1m7wor5WHNG426NDi1iFXx5ch3fdkw&key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc&RID=rpc&SID=rRG_JpdsxpF7VmndXXsbLg&AID=0&CI=0&TYPE=xmlhttp&zx=81cwu5u1oy24&t=2", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/response_011.txt", 
+      "timestamp": 1750914532468
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/request_012.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/multi-watch/channel?VER=8&gsessionid=UkBDamYj25t8AgkoVIYIViD-kuFaa_efGfnmSZKqzfs&key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc&RID=rpc&SID=9NVyMnT3t8uFD8rl7TAlNA&AID=0&CI=0&TYPE=xmlhttp&zx=zg7san2ymfef&t=3", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_022837/response_012.txt", 
+      "timestamp": 1750915649608
+    }
+  ], 
+  "host": "signaler-pa.clients6.google.com", 
+  "total_requests": 12
+}
