@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250626_022852", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/waa-pa.clients6.google.com_20250626_022852/request_001.txt", 
+      "url": "https://waa-pa.clients6.google.com:443/$rpc/google.internal.waa.v1.Waa/Ping", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/waa-pa.clients6.google.com_20250626_022852/response_001.txt", 
+      "timestamp": 1750914268267
+    }
+  ], 
+  "host": "waa-pa.clients6.google.com", 
+  "total_requests": 1
+}
