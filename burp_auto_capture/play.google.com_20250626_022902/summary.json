@@ -1,0 +1,31 @@
+{
+  "capture_timestamp": "20250626_022902", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/play.google.com_20250626_022902/request_001.txt", 
+      "url": "https://play.google.com:443/log?format=json&hasfast=true&authuser=1", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/play.google.com_20250626_022902/response_001.txt", 
+      "timestamp": 1750914249056
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/play.google.com_20250626_022902/request_002.txt", 
+      "url": "https://play.google.com:443/log?format=json&hasfast=true&authuser=1", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/play.google.com_20250626_022902/response_002.txt", 
+      "timestamp": 1750914268244
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/play.google.com_20250626_022902/request_003.txt", 
+      "url": "https://play.google.com:443/log?hasfast=true&auth=SAPISIDHASH+9dc6cea427abef2401be18e36c5088d1c72d2348+SAPISID1PHASH+9dc6cea427abef2401be18e36c5088d1c72d2348+SAPISID3PHASH+9dc6cea427abef2401be18e36c5088d1c72d2348&authuser=0&format=json", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/play.google.com_20250626_022902/response_003.txt", 
+      "timestamp": 1750914269291
+    }
+  ], 
+  "host": "play.google.com", 
+  "total_requests": 3
+}
